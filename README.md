@@ -3,8 +3,7 @@ Twoim zadaniem jest dotarcie do wyznaczonego celu na siatce współrzędnych, za
 Wymagania i Uruchomienie
 Gra nie wymaga instalowania żadnych dodatkowych paczek (np. przez `pip`). Używa tylko standardowej biblioteki Pythona (m.in. `math`, `random`, `json`, `turtle`).
 Aby zagrać, otwórz terminal (wiersz poleceń) w folderze z grą i wpisz:
-```bash
-python main.py
+(bash python main.py)
 Sterowanie w terminalu:
 w - jedź do przodu (kosztuje energię)
 a - skręć w lewo (zmiana kąta o 90 stopni)
