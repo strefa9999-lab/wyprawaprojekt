@@ -1,5 +1,5 @@
 import json
-from rover import Pojazd
+from Pojazd import Pojazd
 from world import World
 from simulation import run_simulation
 from input_handler import get_string_input, get_int_input, get_angle_input
